@@ -1,0 +1,7 @@
+galaxy_info:
+  author: stereohorse
+  description: zookeeper ansible role
+  license: MIT
+  min_ansible_version: 2.3
+  galaxy_tags: []
+dependencies: []
